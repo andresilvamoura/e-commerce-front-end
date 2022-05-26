@@ -1,0 +1,36 @@
+{
+    "book": [
+        {
+            "id": 1,
+            "name": "As coisas que você só vê quando desacelera",
+            "price": 40,
+            "quantity": 10,
+            "autor": "Haemin Sunim",
+            "img": "/as_coisas_que_vc_so_ve_quando_desacelara.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Código limpo: Habilidades práticas do Agile Software",
+            "price": 64.90,
+            "quantity": 12,
+            "autor": "Robert C. Martin",
+            "img": "/codigo_limpo.jpg"
+        },
+        {
+            "id": 3,
+            "name": "O codificador limpo: Um código de conduta para programadores profissionais",
+            "price": 49.90,
+            "quantity": 17,
+            "autor": "Bob Martin",
+            "img": "/o_codificador_limpo.jpg"
+        },
+        {
+            "id": 3,
+            "name": "14 Habitos de Desenvolvedores Altamente Produtivos",
+            "price": 86.90,
+            "quantity": 19,
+            "autor": "Zeno Rocha ",
+            "img": "/o_codificador_limpo.jpg"
+        }
+    ]
+}
